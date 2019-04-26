@@ -1,0 +1,25 @@
+{
+  "name": "@pikantino/toolkit",
+  "version": "0.1.0",
+  "description": "Pikantino - toolkit",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pikantino/toolkit.git"
+  },
+  "author": "targettaiga <targettaiga@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pikantino/toolkit/issues"
+  },
+  "homepage": "https://github.com/pikantino/toolkit#readme",
+  "dependencies": {
+    "typescript": "^3.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^11.13.6"
+  }
+}
